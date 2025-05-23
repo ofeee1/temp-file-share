@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# 上传的文件目录
+uploaded_files/
+
+# IDE
+.vscode/
+.idea/
